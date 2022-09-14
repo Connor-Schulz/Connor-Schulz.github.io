@@ -63,6 +63,7 @@ The most interesting/unique aspect of the job was being given the time, trust, a
 | CLI's  | Familiar with CLI's through University prior to this work term  |
 | GIT  | Familiar with GIT through University and personal projects prior to this work term  |
 | Jenkins  | None - Learned on the job  |
+
 <br>
 ## 🎓 Relation to Academic Study
 This job relates closely to my academic studies. I was able to utilize (and build upon) my front-end web-development skills taught in [CIS*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and [CIS*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) through my site builds and experiment setups, and I was able to hone my back-end skills using techniques, theory and, knowledge taught in [CIS*2500](https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/cis2500.shtml), [CIS*2520](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2520.shtml), and [CIS*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) when I was working on the internal tooling and bug-fixes. And all of this wouldn't have been possible without the collaboration, design-theory,  communication, and teamwork that are emphasized in the software design courses. 
