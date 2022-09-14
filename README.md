@@ -53,6 +53,7 @@ The majority of my time at System1 was allocated to configuring and creating sea
 The most interesting/unique aspect of the job was being given the time, trust, and freedom to try out a variety of jobs on the team that went beyond the specifications of the original job posting. I was able to learn so much more than what I believed was possible in one work term by taking on new challenges that went beyond my knowledge and experience, and I wouldn't have been able to do so if it wasn't for the flexibility and versatility that System1 allowed me to take advantage of.
 
 ####  Technical Skills Required for the Job:
+
 | Skill | Experience |
 |--|--|
 | CSS3  | Prior experience from [CIS*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and other personal projects. Learned many more features and tricks during the work term |
