@@ -2,7 +2,7 @@
 **By:** *Connor Schulz*
 **Last Updated *(yyyy/mm/dd)*:**   *2022/09/13*
 
-## :pushpin: Abstract
+## 📌 Abstract
 
 description here
 
@@ -11,7 +11,7 @@ I am a software engineering student at the University of Guelph that recently co
 
 more description  
 
-## :information_source: Employer Info
+## ℹ️ Employer Info
 
 During this work term, I was employed by System1, the company behind the most dynamic Responsive Acquisition Marketing Platform. They are easily recognized by the well-known brands that they own, such as:
 - [Startpage](https://www.startpage.com/) 
@@ -26,7 +26,7 @@ They are a rapidly growing company with over 500 employees, spread out across 5 
 
 They also contribute to the computer science community by conducting and publishing research in data science as well as creating a variety of open-source software. 
 
-## :trophy: Goals
+## 🏆 Goals
 
 As this was my first work term I wanted to keep the number of goals short, ambitious, but obtainable through focus and hard work. The list items that I ultimately came up with were chosen to increase in difficulty whilst covering a wide variety of skills required for a software engineer.
 
@@ -34,21 +34,21 @@ Although there were goals that are more tech-focused, such as honing my backend 
 
 #### The final list of goals are: 
 ✅ 1. **Get comfortable and familiar with my role as a software engineer in a team setting.** This goal is obtained by becoming comfortable working with my team and other co-workers that I interact with often, as well as knowing who to approach for a specific question.
- ✅2. **Become independent and familiar with handling a large variety of JIRA tickets** This goal is obtained by learning how to do all of the common ticket variants that frequented my team's board independently, including various types of site builds and experiments. 
+✅ 2. **Become independent and familiar with handling a large variety of JIRA tickets** This goal is obtained by learning how to do all of the common ticket variants that frequented my team's board independently, including various types of site builds and experiments. 
 ✅ 3. **Be able to run a release.** This goal is the most difficult and I wasn't sure if I'd reach it by the end of the term given how ambitious it is. It was obtained by learning the release process and gaining the trust to be able to run a release independently.
 
-## :page_with_curl: Job Description
+## 📃 Job Description
 
 The majority of my time at System1 was allocated to configuring and creating search result webpages/sites for various partners. The build process requires front-end work with a heavy focus on HTML, CSS, and YAML. The other variant of JIRA ticket that I worked on was front-end changes for experiments to test how certain adjustments affected the way users interacted with the page.
 
 #### Some other tasks that I took on during my time at System1:
-- :chart_with_upwards_trend: Configured experiments to provide the company with useful metrics
-- :hospital: Wrote unit tests using Python to help maintain code health
-- :wrench: Modified and improved internal tooling using Python to increase automation of tasks, and developer efficiency and accuracy
-- :computer: Ran and monitored code releases to production on a $100M/year platform successfully 5 times
-- :beetle: Investigated and fixed bugs
-- :raising_hand: Assisted new hires and other co-workers by answering questions and debugging issues that they encountered
-- :bookmark_tabs: Contributed to and updated documentation to help current and new employees
+- 📈 Configured experiments to provide the company with useful metrics
+- 🏥 Wrote unit tests using Python to help maintain code health
+- 🛠️Modified and improved internal tooling using Python to increase automation of tasks, and developer efficiency and accuracy
+- 💻 Ran and monitored code releases to production on a $100M/year platform successfully 5 times
+- 🪳 Investigated and fixed bugs
+- 🙋 Assisted new hires and other co-workers by answering questions and debugging issues that they encountered
+- 📑 Contributed to and updated documentation to help current and new employees
 
 The most interesting/unique aspect of the job was being given the time, trust, and freedom to try out a variety of jobs on the team that went beyond the specifications of the original job posting. I was able to learn so much more than what I believed was possible in one work term by taking on new challenges that went beyond my knowledge and experience, and I wouldn't have been able to do so if it wasn't for the flexibility and versatility that System1 allowed me to take advantage of.
 
@@ -63,18 +63,18 @@ The most interesting/unique aspect of the job was being given the time, trust, a
 | GIT  | Familiar with GIT through University and personal projects prior to this work term  |
 | Jenkins  | None - Learned on the job  |
 
-## :mortar_board: Relation to Academic Study
+## 🎓 Relation to Academic Study
 This job relates closely to my academic studies. I was able to utilize (and build upon) my front-end web-development skills taught in [CIS*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and [CIS*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) through my site builds and experiment setups, and I was able to hone my back-end skills using techniques, theory and, knowledge taught in [CIS*2500](https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/cis2500.shtml), [CIS*2520](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2520.shtml), and [CIS*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) when I was working on the internal tooling and bug-fixes. And all of this wouldn't have been possible without the collaboration, design-theory,  communication, and teamwork that are emphasized in the software design courses. 
 
 System1, in my opinion, had struck the perfect balance between utilizing skills that I was already experienced with while leaving enough room for me to grow and expand my knowledge.
 
 Besides building on the knowledge I already possessed, I also learned new technology, theory, and techniques that I look forward to being able to apply to my future courses, notably [CIS*3750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2015-2016/courses/cis3750.shtml) and [CIS*3260](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis3260.shtml).
 
-## :clipboard: Focus of the Report
+## 🔬 Focus of the Report
 
-## :checkered_flag: Conclusions
+## 🏁 Conclusions
 
-## :love_letter: Acknowledgments
+## 💌 Acknowledgments
 I would like to thank the following people for making this work term so successful:
 
 - My **Manager** for helping me meet my goals and encouraging me through the four months
