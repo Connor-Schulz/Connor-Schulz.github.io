@@ -33,9 +33,9 @@ As this was my first work term I wanted to keep the number of goals short, ambit
 Although there were goals that are more tech-focused, such as honing my backend skills with Python and JavaScript, I wanted to make sure I was getting a wide coverage and that all of my focus was not all in one area. 
 
 #### The final list of goals are: 
-✅ 1. **Get comfortable and familiar with my role as a software engineer in a team setting.** This goal is obtained by becoming comfortable working with my team and other co-workers that I interact with often, as well as knowing who to approach for a specific question.
-✅ 2. **Become independent and familiar with handling a large variety of JIRA tickets** This goal is obtained by learning how to do all of the common ticket variants that frequented my team's board independently, including various types of site builds and experiments. 
-✅ 3. **Be able to run a release.** This goal is the most difficult and I wasn't sure if I'd reach it by the end of the term given how ambitious it is. It was obtained by learning the release process and gaining the trust to be able to run a release independently.
+✅ 1. **Get comfortable and familiar with my role as a software engineer in a team setting.** This goal is obtained by becoming comfortable working with my team and other co-workers that I interact with often, as well as knowing who to approach for a specific question. <br>
+✅ 2. **Become independent and familiar with handling a large variety of JIRA tickets** This goal is obtained by learning how to do all of the common ticket variants that frequented my team's board independently, including various types of site builds and experiments. <br>
+✅ 3. **Be able to run a release.** This goal is the most difficult and I wasn't sure if I'd reach it by the end of the term given how ambitious it is. It was obtained by learning the release process and gaining the trust to be able to run a release independently. <br>
 
 ## 📃 Job Description
 
