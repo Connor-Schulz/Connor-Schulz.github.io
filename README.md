@@ -1,6 +1,7 @@
 # Workterm Report [1]
 **By:** *Connor Schulz*
 **Last Updated *(yyyy/mm/dd)*:**   *2022/09/13*
+
 <br>
 ## 📌 Abstract
 
@@ -24,6 +25,7 @@ During this work term, I was employed by System1, the company behind the most dy
 They are a rapidly growing company with over 500 employees, spread out across 5 locations (including one in Guelph) and many more working remotely.
 
 They also contribute to the computer science community by conducting and publishing research in data science as well as creating a variety of open-source software. 
+
 <br>
 ## 🏆 Goals
 
@@ -34,7 +36,8 @@ Although there were goals that are more tech-focused, such as honing my backend 
 #### The final list of goals are: 
 ✅ 1. **Get comfortable and familiar with my role as a software engineer in a team setting.** This goal is obtained by becoming comfortable working with my team and other co-workers that I interact with often, as well as knowing who to approach for a specific question. <br>
 ✅ 2. **Become independent and familiar with handling a large variety of JIRA tickets** This goal is obtained by learning how to do all of the common ticket variants that frequented my team's board independently, including various types of site builds and experiments. <br>
-✅ 3. **Be able to run a release.** This goal is the most difficult and I wasn't sure if I'd reach it by the end of the term given how ambitious it is. It was obtained by learning the release process and gaining the trust to be able to run a release independently. <br>
+✅ 3. **Be able to run a release.** This goal is the most difficult and I wasn't sure if I'd reach it by the end of the term given how ambitious it is. It was obtained by learning the release process and gaining the trust to be able to run a release independently.
+
 <br>
 ## 📃 Job Description
 
@@ -70,10 +73,13 @@ This job relates closely to my academic studies. I was able to utilize (and buil
 System1, in my opinion, had struck the perfect balance between utilizing skills that I was already experienced with while leaving enough room for me to grow and expand my knowledge.
 
 Besides building on the knowledge I already possessed, I also learned new technology, theory, and techniques that I look forward to being able to apply to my future courses, notably [CIS\*3750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2015-2016/courses/cis3750.shtml) and [CIS\*3260](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis3260.shtml).
+
 <br>
 ## 🔬 Focus of the Report
+
 <br>
 ## 🏁 Conclusions
+
 <br>
 ## 💌 Acknowledgments
 I would like to thank the following people for making this work term so successful:
