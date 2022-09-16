@@ -4,12 +4,11 @@
 <br>
 ## 📌 Abstract
 
-description here
+This report will outline the experience that I gained during my first co-op work term at System1. This report will provide context to the reader about the employer and job, relate my experience with my studies, and present my goals with the steps I took in order to achieve them. 
 
 #### About me:
 I am a software engineering student at the University of Guelph that recently completed my second year and my first work term. I am taking co-op in order to get an abundance of work experience whilst I complete my degree to help put my knowledge to the test and prepare myself for a career after graduation. 
 
-more description  
 <br>
 ## ℹ️ Employer Info
 
@@ -56,8 +55,8 @@ The most interesting/unique aspect of the job was being given the time, trust, a
 
 | Skill | Experience |
 |--|--|
-| CSS3  | Prior experience from [CIS*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and other personal projects. Learned many more features and tricks during the work term |
-| HTML5  | Prior experience from [CIS*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and other personal projects |
+| CSS3  | Prior experience from [CIS\*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and other personal projects. Learned many more features and tricks during the work term |
+| HTML5  | Prior experience from [CIS\*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and other personal projects |
 | YAML  | None - learned on the job. Formatting is simple and easy to pick up |
 | PYTHON3  | Been using python for close to 6 years. Many new features, standards, and design practices were shown to me during the work term.  |
 | CLI's  | Familiar with CLI's through University prior to this work term  |
@@ -66,11 +65,11 @@ The most interesting/unique aspect of the job was being given the time, trust, a
 
 <br>
 ## 🎓 Relation to Academic Study
-This job relates closely to my academic studies. I was able to utilize (and build upon) my front-end web-development skills taught in [CIS*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and [CIS*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) through my site builds and experiment setups, and I was able to hone my back-end skills using techniques, theory and, knowledge taught in [CIS*2500](https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/cis2500.shtml), [CIS*2520](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2520.shtml), and [CIS*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) when I was working on the internal tooling and bug-fixes. And all of this wouldn't have been possible without the collaboration, design-theory,  communication, and teamwork that are emphasized in the software design courses. 
+This job relates closely to my academic studies. I was able to utilize (and build upon) my front-end web-development skills taught in [CIS\*1050](https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=20303996&selectedProgramAreaId=16979&selectedProgramStreamId=17047) and [CIS\*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) through my site builds and experiment setups, and I was able to hone my back-end skills using techniques, theory and, knowledge taught in [CIS\*2500](https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/cis2500.shtml), [CIS\*2520](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2520.shtml), and [CIS\*2750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis2750.shtml) when I was working on the internal tooling and bug-fixes. And all of this wouldn't have been possible without the collaboration, design-theory,  communication, and teamwork that are emphasized in the software design courses. 
 
 System1, in my opinion, had struck the perfect balance between utilizing skills that I was already experienced with while leaving enough room for me to grow and expand my knowledge.
 
-Besides building on the knowledge I already possessed, I also learned new technology, theory, and techniques that I look forward to being able to apply to my future courses, notably [CIS*3750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2015-2016/courses/cis3750.shtml) and [CIS*3260](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis3260.shtml).
+Besides building on the knowledge I already possessed, I also learned new technology, theory, and techniques that I look forward to being able to apply to my future courses, notably [CIS\*3750](https://www.uoguelph.ca/registrar/calendars/undergraduate/2015-2016/courses/cis3750.shtml) and [CIS\*3260](https://www.uoguelph.ca/registrar/calendars/undergraduate/2018-2019/courses/cis3260.shtml).
 <br>
 ## 🔬 Focus of the Report
 <br>
