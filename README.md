@@ -1,4 +1,4 @@
-# Workterm Report [1]
+# Workterm Report 1
 **By:** *Connor Schulz* <br>
 **Last Updated *(yyyy/mm/dd)*:**   *2022/09/13*
 
